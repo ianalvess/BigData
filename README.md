@@ -1,2 +1,6 @@
-# Master-s-in-Bioinformatics
-In this repository it's possible to find small pieces of code developed, individually or in groups, for different curricular units of the master's degree in Bioinformatics.
+# Big Data
+In this repository you can find small pieces of code developed as a group for the Big Data curricular unit of the master's degree in Bioinformatics.
+
+Group:
+- Carlos Gomes (PG51681)
+- Ian Alves (PG51682)
